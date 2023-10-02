@@ -1,0 +1,17 @@
+.cursor{
+	color: yellow;
+	background-color: red;
+	cursor: help;
+	cursor: pointerss;
+	cursor: wait;
+	cursor: text;
+	cursor: move;
+}
+.filter{
+	filter: blur(5px);
+	filter: brightness(300%);
+	filter: drop-shadow(100px 0px 0px 10px yellow);
+	filter: opacity(20%);
+	filter: contrast(20%);
+
+}

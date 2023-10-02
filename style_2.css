@@ -1,0 +1,90 @@
+.box_1{
+	height:100px;
+	width:8%;
+	background-color:yellow;
+	border:15px groove red;
+	border-radius:0px 30px 0px 0px;
+	float:left;
+}
+.box_2{
+	border:15px groove red;
+	border-radius:30px 0px 0px 0px;
+	float:left;
+
+}
+.box_3{
+	
+	border:15px groove red;
+	border-radius:0px 30px 0px 0px;
+	float:left;
+}
+.box_4{
+	border-radius:30px 0px 0px 0px;
+	float:left;
+
+}
+.box_5{
+	border-radius:0px 30px 0px 0px;
+	float:left;
+}
+.box_6{
+	
+	border:15px groove red;
+	border-radius:0px 30px 0px 0px;
+	float:left;
+
+}
+.box_7{
+	border-radius:30px 0px 0px 0px;
+	float:left;
+
+}
+.box_8{
+	
+	border:15px groove red;
+	border-radius:0px 30px 0px 0px;
+	float:left;
+
+}
+.box_9{
+	
+	border:15px groove red;
+	border-radius:30px 0px 0px 0px;
+	float:left;
+
+}
+.box_10{
+	
+	border:15px groove red;
+	border-radius:0px 30px 0px 0px;
+	float:left;
+
+}
+.a1{
+	border-radius: 0px 0px 30px 0px;
+	float: left;
+}
+.a2{
+	border-radius: 0px 0px 0px 30px;
+	float: left;
+}
+.b1{
+	border-radius: 0px 0px 100px 0px;
+	background-color: blue;
+	float: left;
+}
+.b2{
+	border-radius: 0px 0px 0px 100px;
+	background-color: blue;
+	float: left;
+}
+.b3{
+	border-radius: 0px 100px 0px 0px;
+	background-color: blue;
+	float: left;
+}
+.b4{
+	border-radius: 100px 0px 0px 0px;
+	background-color: blue;
+	float: left;
+}

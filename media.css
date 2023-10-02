@@ -1,0 +1,39 @@
+.media_query{
+	height: 500px;
+	width: 100%;
+	float: left;
+	background-color: red;
+}
+@media(max-width:667px )
+{
+/*0-667px->css*/
+.media_query{
+	background-color: yellow;
+}
+}
+@media(min-width:668px )
+{
+/*667px->927->css*/
+.media_query{
+	background-color: blue;
+}
+}
+@media(min-width:927px )
+{
+/*927px->1199->css*/
+.media_query{
+	background-color: orange;
+}
+}
+@media(min-width:1200px )
+{
+/*1200px->css*/
+.media_query{
+	background-color: black;
+}
+}
+.size{
+	height: 100px;
+	background-color: green;
+	float: left;
+}
